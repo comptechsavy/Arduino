@@ -1,7 +1,7 @@
 #include <WiFiS3.h>
 
-const char* ssid = "Prince Gabriel";          // 2.4GHz WiFi only!
-const char* password = "SYFamily4ever#";  // Case-sensitive
+const char* ssid = "YOUR WIFI ID";          // 2.4GHz WiFi only!
+const char* password = "WIFI PASSWORD";  // Case-sensitive
 
 IPAddress staticIP(192, 168, 1, 150);      // Arduino's IP address
 IPAddress gateway(192, 168, 1, 1);         // Usually your router's IP
